@@ -23,9 +23,9 @@ When someone wins, highlight the three squares that caused the win.
 When no one wins, display a message about the result being a draw.
 
 ## Technologies Used
-ReactJS
-CSS
-TypeScript 
+- ReactJS
+- CSS
+- TypeScript 
 
 
 ## Setup
